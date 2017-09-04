@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="RatersWaypointManager" default="makejar" basedir=".">
+    <target name="makejar" description="Create a jar for the project">
+        <mkdir dir="target"></mkdir>
+        <jar destfile="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/mods/waypointmanager/waypointmanager.jar">
+            <fileset dir="bin"></fileset>
+        </jar>
+    </target>
+
+</project>

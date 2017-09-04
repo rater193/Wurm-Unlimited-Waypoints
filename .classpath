@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/client-patched.jar" sourcepath="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/decompile/src-client"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/common.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/modlauncher.jar" sourcepath="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/decompile/src-modlauncher"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/colladabind-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/irclib-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/jbullet-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/joXSI-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/jzipupdate-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/lwjgl_util-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/lwjgl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/lwjgl-natives-windows-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/PNGDecoder-0.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/slick-util-b208.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/SteamClientJni.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/lib/vecmath-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/client.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Steam/steamapps/common/Wurm Unlimited/WurmLauncher/patcher.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
